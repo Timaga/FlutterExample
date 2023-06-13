@@ -1,2 +1,2 @@
 # FlutterExample
-4 examples fro flutter
+4 examples for flutter
